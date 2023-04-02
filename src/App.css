@@ -1,0 +1,9 @@
+body {
+    background-color: var(--color-one);
+  }
+  
+  .logo {
+    width: 180px;
+    height: 100px;
+  }
+  
