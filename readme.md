@@ -1,7 +1,3 @@
-# Api - TreeNetwork
-
-Aplicação para gerenciar contatos do usuario desenvolvida para facilitar sua vida.
-
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
@@ -10,17 +6,13 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 ### 📋 Pré-requisitos
 
 Intruções de uso e instalação
-
+https://bruno3p.github.io/Documentacao/
 ```
 yarn version  1.22.5 ou superior
-nodeJs 16.19.0 ou superior
-```
 
 ## 🛠️ Construído com
 
 - [TypeScript]() - linguagem de programção
-- [Express]() - Framework web
-- [Postegresql]() - Banco de dados
 
 ## 📌 Versão 1.0.0
 
